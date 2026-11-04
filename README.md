@@ -31,18 +31,18 @@ Before writing code, I kept warships running. I served in the Indian Navy as a M
 
 | Project | What it is | Stack |
 |---|---|---|
-| [oceantrace](https://github.com/DebashisMallana/oceantrace) | SIH 2026 (NTRO, PS 26143): detects oil spills in Sentinel-1 SAR imagery, traces the slick back 24 hours with OpenDrift, and ranks suspect vessels using Global Fishing Watch AIS data. Fail-closed by design. **Top 6 team in the internal round.** My role: research and domain lead. | Python, Jupyter |
+| [oceantrace](https://github.com/DebashisMallana/oceantrace) | SIH 2026 (NTRO, PS 26143): detects oil spills in Sentinel-1 SAR imagery, traces the slick back 24 hours with OpenDrift, and ranks suspect vessels using Global Fishing Watch AIS data. Fail-closed by design. **Top 5 team in the internal round.** My role: research and domain lead. | Python, Jupyter |
 | [dsa-a2z-practice](https://github.com/DebashisMallana/dsa-a2z-practice) | Structured DSA practice with solutions to problems on arrays, binary search, linked lists and more. | Java |
 | [Development](https://github.com/DebashisMallana/Development) | MERN stack practice and learning projects. | JavaScript, MERN |
 
 ## 📈 DSA progress
 
-- **LeetCode:** 60+ problems solved in Java (Binary Search, Arrays, Two Pointers, Linked List, DP) → [Debashis265](https://leetcode.com/u/Debashis265)
+- **LeetCode:** 80 problems solved in Java (Binary Search, Arrays, Two Pointers, Linked List, DP) → [Debashis265](https://leetcode.com/u/Debashis265)
 - **Next up:** Trees, Graphs, Recursion/Backtracking, Sliding Window
 
 ## 🏆 Highlights
 
-- Top 6 team, Smart India Hackathon 2026 internal round (Atria Institute of Technology)
+- Top 5 team, Smart India Hackathon 2026 internal round (Atria Institute of Technology)
 - Marine Engineer, Indian Navy (Feb 2022 – Jun 2024)
 - First open-source contribution: issue raised on [FinanceFlash/unvibecode](https://github.com/FinanceFlash/unvibecode)
 
